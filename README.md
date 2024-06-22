@@ -23,7 +23,7 @@ Document the available API endpoints and their functionalities here. Example:
 
 ### run `npm install`
 
-### `node server.js`
+### run `node server.js`
 
 
 
