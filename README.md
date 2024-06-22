@@ -1,4 +1,4 @@
-### Express.js App with PostgreSQL Database
+# Express.js App with PostgreSQL Database
 This repository contains an Express.js application that integrates with a PostgreSQL database, providing a backend server for various purposes.
 
 ## Technologies Used
@@ -11,8 +11,20 @@ This repository contains an Express.js application that integrates with a Postgr
 
 Document the available API endpoints and their functionalities here. Example:
 
-1. GET /api/users: Retrieve all users.
-2. POST /api/users: Create a new user.
-3. GET /api/users/:id: Retrieve a user by ID.
-etc.
+1. GET /api/sales: Retrieve all sales.
+2. POST /api/sales: Create a new sales.
+3. PUT /api/sales/:id: Update existing sales.
+4. DELETE /api/sales/:id: Delete existing sales.
+5. GET /api/product-type: Retrieve all product type.
+6. POST /api/product-type: Create a new product type.
+
+
+## HOW TO START
+
+### run `npm install`
+
+### `node server.js`
+
+
+
 
